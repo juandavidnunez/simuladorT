@@ -1,0 +1,12 @@
+{
+  "eventos": [
+    {"identificador": 81001, "magnitud": 2.0, "profundidad": 20.0, "epicentro": [100.0, 100.0], "fecha": "2026-10-04T10:00:00Z", "estaciones": ["STA-01"]},
+    {"identificador": 81002, "magnitud": 2.2, "profundidad": 25.0, "epicentro": [180.0, 140.0], "fecha": "2026-10-04T10:01:00Z", "estaciones": ["STA-02"]},
+    {"identificador": 81003, "magnitud": 2.4, "profundidad": 30.0, "epicentro": [260.0, 180.0], "fecha": "2026-10-04T10:02:00Z", "estaciones": ["STA-03"]},
+    {"identificador": 81004, "magnitud": 2.6, "profundidad": 35.0, "epicentro": [340.0, 220.0], "fecha": "2026-10-04T10:03:00Z", "estaciones": ["STA-04"]},
+    {"identificador": 81005, "magnitud": 2.8, "profundidad": 40.0, "epicentro": [420.0, 260.0], "fecha": "2026-10-04T10:04:00Z", "estaciones": ["STA-05"]},
+    {"identificador": 81006, "magnitud": 3.0, "profundidad": 45.0, "epicentro": [500.0, 300.0], "fecha": "2026-10-04T10:05:00Z", "estaciones": ["STA-06"]},
+    {"identificador": 81007, "magnitud": 3.2, "profundidad": 50.0, "epicentro": [580.0, 340.0], "fecha": "2026-10-04T10:06:00Z", "estaciones": ["STA-07"]},
+    {"identificador": 81008, "magnitud": 3.4, "profundidad": 55.0, "epicentro": [660.0, 380.0], "fecha": "2026-10-04T10:07:00Z", "estaciones": ["STA-08"]}
+  ]
+}

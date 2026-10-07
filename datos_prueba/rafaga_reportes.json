@@ -1,0 +1,10 @@
+{
+  "reportes": [
+    {"identificador": 82001, "revision": 3, "magnitud": 5.6, "profundidad": 80.0, "epicentro": [300.0, 300.0], "fecha": "2026-10-04T09:00:00Z", "estacion": "STA-01"},
+    {"identificador": 82002, "revision": 1, "magnitud": 4.2, "profundidad": 60.0, "epicentro": [305.0, 300.0], "fecha": "2026-10-04T09:20:00Z", "estacion": "STA-02"},
+    {"identificador": 82001, "revision": 3, "magnitud": 5.6, "profundidad": 80.0, "epicentro": [300.0, 300.0], "fecha": "2026-10-04T09:00:00Z", "estacion": "STA-03"},
+    {"identificador": 82001, "revision": 2, "magnitud": 5.0, "profundidad": 90.0, "epicentro": [300.0, 300.0], "fecha": "2026-10-04T08:00:00Z", "estacion": "STA-04"},
+    {"identificador": 82001, "revision": 3, "magnitud": 5.7, "profundidad": 80.0, "epicentro": [300.0, 300.0], "fecha": "2026-10-04T09:00:00Z", "estacion": "STA-05"},
+    {"identificador": 82001, "revision": 4, "magnitud": 6.1, "profundidad": 15.0, "epicentro": [302.0, 300.0], "fecha": "2026-10-04T08:55:00Z", "estacion": "STA-06"}
+  ]
+}

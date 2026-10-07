@@ -1,0 +1,55 @@
+{
+  "formato": "sismolab-json-v1",
+  "nombre_version": "topologia normal minima",
+  "estado": {
+    "version_esquema": 1,
+    "arbol": {
+      "modo": "normal",
+      "raiz": {
+        "raiz": 0,
+        "nodos": [
+          {
+            "clave": {"prioridad": 1, "magnitud": 3.2, "identificador": 83001},
+            "altura": 0,
+            "factor_balance": 0,
+            "acceso_costoso": false,
+            "izquierda": null,
+            "derecha": null
+          }
+        ]
+      }
+    },
+    "eventos_activos": [
+      {
+        "identificador": 83001,
+        "magnitud": 3.2,
+        "profundidad": 40.0,
+        "epicentro": {"tipo": "tuple", "elementos": [300.0, 450.0]},
+        "fecha": {"tipo": "datetime", "valor": "2026-10-04T10:00:00+00:00"},
+        "revision": 1,
+        "estado": "pendiente",
+        "en_zona_poblada": false,
+        "prioridad": 1,
+        "estaciones": {"tipo": "set", "elementos": ["STA-01"]}
+      }
+    ],
+    "eventos_archivados": [],
+    "identificadores_eliminados": {"tipo": "set", "elementos": []},
+    "cola_reportes": [],
+    "escenario": {
+      "reloj": {"tipo": "datetime", "valor": "2026-10-05T00:00:00+00:00"},
+      "estaciones": ["STA-01", "STA-02", "STA-03", "STA-04", "STA-05", "STA-06", "STA-07", "STA-08"],
+      "geometria_bloqueada": true,
+      "zonas": [],
+      "W": 48,
+      "R": 40,
+      "L": 3,
+      "T": 72,
+      "modo": "normal"
+    },
+    "metricas": {"tipo": "metricas", "valores": {}},
+    "metricas_arbol": {"tipo": "metricas", "valores": {}},
+    "referencias": [],
+    "rotaciones_ultimo_archivo": []
+  }
+}

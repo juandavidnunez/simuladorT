@@ -1,0 +1,1 @@
+"""Interfaz pygame de SismoLab."""
